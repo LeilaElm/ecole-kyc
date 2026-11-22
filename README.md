@@ -1,3 +1,1 @@
-# École KYC / LCB-FT
-
-Application de formation. Ouvrir https://leilaelm.github.io/ecole-kyc/
+École KYC / LCB-FT — application de formation, ouvrir https://leilaelm.github.io/ecole-kyc/
